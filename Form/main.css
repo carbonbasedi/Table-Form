@@ -1,0 +1,14 @@
+textarea{
+    height: 90px;
+    width: 180px;
+    resize: none;
+}
+
+form {
+    height:fit-content;
+    width: 800px;
+}
+
+input,select {
+    margin-bottom: 15px;
+}
